@@ -1,0 +1,1 @@
+The goal of this project was to develop a high-performing deep learning model for multi-class image classification. The task involved using the Intel Image Classification dataset, which contains images of six distinct natural scenes: buildings, forest, glacier, mountain, sea, and street.
